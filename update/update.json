@@ -1,6 +1,6 @@
 {
       "versionCode": 92,
-        "version": "v9.2",
-          "zipUrl":"https://gitee.com/pzzzpsjjw/aurora/archive/refs/tags/v20251017.zip",
-            "changelog": "https://gitee.com/pzzzpsjjw/aurora/raw/master/update/changelog.md"
+      "version": "v9.2",
+          "zipUrl":"https://gitee.com/pzzzpsjjw/aurora/releases/download/v20251017/Aurora.zip"
+          "changelog": "https://gitee.com/pzzzpsjjw/aurora/raw/master/update/changelog.md"
 }
